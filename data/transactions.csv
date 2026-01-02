@@ -1,0 +1,5 @@
+amount,hour,location_risk,device_risk,previous_fraud_count,is_fraud
+4500,23,1,1,2,1
+120,14,0,0,0,0
+9000,2,1,1,3,1
+300,10,0,0,0,0
